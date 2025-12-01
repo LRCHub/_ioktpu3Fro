@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "華奢なリップ",
+  "base_artist": "Genie High",
+  "createdAt": "2025-12-01T05:14:52.411793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "華奢なリップ (feat. ちゃんみな)",
+      "artist": "Genie High",
+      "has_synced": true,
+      "path": "select/01_華奢なリップ_(feat._ちゃんみな)_Genie_High.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "華奢なリップ (feat. ちゃんみな)",
+      "artist": "Genie High, CHANMINA",
+      "has_synced": true,
+      "path": "select/02_華奢なリップ_(feat._ちゃんみな)_Genie_High,_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "華奢なリップ - Kyashana Lip (feat. CHANMINA)",
+      "artist": "Genie High",
+      "has_synced": true,
+      "path": "select/03_華奢なリップ_-_Kyashana_Lip_(feat._CHANMINA)_Genie_High.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "華奢なリップ(feat.ちゃんみな)",
+      "artist": "ジェニーハイ",
+      "has_synced": false,
+      "path": "select/pl_01_華奢なリップ(feat.ちゃんみな)_ジェニーハイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "華奢なリップ (feat. ちゃんみな)",
+      "artist": "ジェニーハイ",
+      "has_synced": false,
+      "path": "select/pl_02_華奢なリップ_(feat._ちゃんみな)_ジェニーハイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "華奢なリップ (feat. ちゃんみな)",
+      "artist": "ジェニーハイ",
+      "has_synced": false,
+      "path": "select/pl_03_華奢なリップ_(feat._ちゃんみな)_ジェニーハイ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "華奢なリップ (feat. ちゃんみな)",
+      "artist": "ジェニーハイ",
+      "has_synced": false,
+      "path": "select/pl_04_華奢なリップ_(feat._ちゃんみな)_ジェニーハイ.txt"
+    }
+  ]
+}
